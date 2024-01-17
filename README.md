@@ -56,6 +56,8 @@
 
 To get a local copy up and running, follow these steps.
 
+[Link to the react app](https://github.com/sagieramos/hello-react-front-end/)
+
 ### Prerequisites
 
 In order to run this project you need:
